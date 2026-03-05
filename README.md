@@ -1,8 +1,10 @@
-# Kecho
+# RoadWise
 
-`kecho` is a simple Rust desktop app built with `iced`.
+`RoadWise` is a simple Rust desktop app built with `iced`.
 
-It listens for keyboard input and shows your configured keyword when you type it.
+Train your mind for traffic signs.
+
+<!-- https://lto.gov.ph/wp-content/uploads/2023/09/RO102_CDE_Road_and_Traffic_Rules_Signs-Signals-Markings.pdf -->
 
 ## Tech Stack
 
